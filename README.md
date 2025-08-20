@@ -12,4 +12,5 @@ This repository contains exercises completed as part of DataCamp tracks and cour
 
 ### Selected Courses
 
-- 
+- Explainable Artificial Intelligence (XAI) Concepts - [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/451780752aafb0cfc8ecc47d49ad2b6a1a1a8c16)
+- Explainable AI in Python - [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/5e8919996985a5612cd733dad6d95577a21432d4)
